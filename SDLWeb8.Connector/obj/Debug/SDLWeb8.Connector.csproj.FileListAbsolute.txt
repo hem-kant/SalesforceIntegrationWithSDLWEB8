@@ -1,0 +1,13 @@
+D:\Dream\SalesforceIntegrationWithSDLWEB8\SDLWeb8.Connector\bin\Debug\SDLWeb8.Connector.dll
+D:\Dream\SalesforceIntegrationWithSDLWEB8\SDLWeb8.Connector\bin\Debug\SDLWeb8.Connector.pdb
+D:\Dream\SalesforceIntegrationWithSDLWEB8\SDLWeb8.Connector\bin\Debug\CoreServiceClientFrameWork.dll
+D:\Dream\SalesforceIntegrationWithSDLWEB8\SDLWeb8.Connector\bin\Debug\Tridion.Common.dll
+D:\Dream\SalesforceIntegrationWithSDLWEB8\SDLWeb8.Connector\bin\Debug\Tridion.ContentManager.CoreService.Client.dll
+D:\Dream\SalesforceIntegrationWithSDLWEB8\SDLWeb8.Connector\bin\Debug\CoreServiceClientFrameWork.pdb
+D:\Dream\SalesforceIntegrationWithSDLWEB8\SDLWeb8.Connector\obj\Debug\SDLWeb8.Connector.csprojResolveAssemblyReference.cache
+D:\Dream\SalesforceIntegrationWithSDLWEB8\SDLWeb8.Connector\obj\Debug\SDLWeb8.Connector.dll
+D:\Dream\SalesforceIntegrationWithSDLWEB8\SDLWeb8.Connector\obj\Debug\SDLWeb8.Connector.pdb
+D:\Dream\SalesforceIntegrationWithSDLWEB8\SDLWeb8.Connector\bin\Debug\SalesforceIntegrationWithSDLWeb8.BAL.dll
+D:\Dream\SalesforceIntegrationWithSDLWEB8\SDLWeb8.Connector\bin\Debug\SalesforceIntegrationWithSDLWeb8.DAL.dll
+D:\Dream\SalesforceIntegrationWithSDLWEB8\SDLWeb8.Connector\bin\Debug\SalesforceIntegrationWithSDLWeb8.BAL.pdb
+D:\Dream\SalesforceIntegrationWithSDLWEB8\SDLWeb8.Connector\bin\Debug\SalesforceIntegrationWithSDLWeb8.DAL.pdb

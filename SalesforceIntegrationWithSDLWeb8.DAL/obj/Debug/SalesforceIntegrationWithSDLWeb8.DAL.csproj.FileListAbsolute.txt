@@ -1,0 +1,7 @@
+D:\Dream\SalesforceIntegrationWithSDLWEB8\SalesforceIntegrationWithSDLWeb8.DAL\bin\Debug\SalesforceIntegrationWithSDLWeb8.DAL.dll
+D:\Dream\SalesforceIntegrationWithSDLWEB8\SalesforceIntegrationWithSDLWeb8.DAL\bin\Debug\SalesforceIntegrationWithSDLWeb8.DAL.pdb
+D:\Dream\SalesforceIntegrationWithSDLWEB8\SalesforceIntegrationWithSDLWeb8.DAL\obj\Debug\SalesforceIntegrationWithSDLWeb8.DAL.dll
+D:\Dream\SalesforceIntegrationWithSDLWEB8\SalesforceIntegrationWithSDLWeb8.DAL\obj\Debug\SalesforceIntegrationWithSDLWeb8.DAL.pdb
+D:\Dream\SalesforceIntegrationWithSDLWEB8\SalesforceIntegrationWithSDLWeb8.DAL\bin\Debug\SalesforceIntegrationWithSDLWeb8.BAL.dll
+D:\Dream\SalesforceIntegrationWithSDLWEB8\SalesforceIntegrationWithSDLWeb8.DAL\bin\Debug\SalesforceIntegrationWithSDLWeb8.BAL.pdb
+D:\Dream\SalesforceIntegrationWithSDLWEB8\SalesforceIntegrationWithSDLWeb8.DAL\obj\Debug\SalesforceIntegrationWithSDLWeb8.DAL.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+D:\Dream\SalesforceIntegrationWithSDLWEB8\SF.Connector\bin\Debug\SF.Connector.dll.config
+D:\Dream\SalesforceIntegrationWithSDLWEB8\SF.Connector\bin\Debug\SF.Connector.dll
+D:\Dream\SalesforceIntegrationWithSDLWEB8\SF.Connector\bin\Debug\SF.Connector.pdb
+D:\Dream\SalesforceIntegrationWithSDLWEB8\SF.Connector\obj\Debug\SF.Connector.dll
+D:\Dream\SalesforceIntegrationWithSDLWEB8\SF.Connector\obj\Debug\SF.Connector.pdb
+D:\Dream\SalesforceIntegrationWithSDLWEB8\SF.Connector\bin\Debug\SalesforceIntegrationWithSDLWeb8.DAL.dll
+D:\Dream\SalesforceIntegrationWithSDLWEB8\SF.Connector\bin\Debug\SalesforceIntegrationWithSDLWeb8.DAL.pdb
+D:\Dream\SalesforceIntegrationWithSDLWEB8\SF.Connector\obj\Debug\SF.Connector.csprojResolveAssemblyReference.cache
